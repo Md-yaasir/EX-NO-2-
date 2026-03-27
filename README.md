@@ -161,7 +161,7 @@ int main() {
 
 
 ## Output:
-
+![image alt](https://github.com/Md-yaasir/EX-NO-2-/blob/147ef1ea8fe8336885e8734a3e48575bdeebe6b4/8ff86043-cd9b-4d37-822a-934bd5e9a5a6.jpg)
 
 ## RESULT:
 
